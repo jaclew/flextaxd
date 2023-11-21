@@ -107,7 +107,7 @@ flextaxd --help
 
 ## Formats
 The different formats supported and used by FlexTaxD are described in the wiki
--> https://github.com/FOI-Bioinformatics/flextaxd/wiki/Formats
+-> https://github.com/FOI-Bioinformatics/flextaxd/wiki/2a.-File-formats
 
 ## Modify your database
 The database update function can use either a previously built flextaxd database or directly through a TAB separated text file with headers (parent, child, (level))). Using the --parent parameter, all nodes/edges subsequent to that parent will be added (or can replace an existing node see options) with the links supplied. The parent node must exist in the database/tables and must have the same name (ex "<i>Francisella tularensis</i>"). Using the (--replace) parameter all children in the old database under the given parent will be removed, if you only want to replace for example <i>Francisella tularensis</i> be sure not to choose <i>Francisella</i> as parent.
@@ -155,7 +155,7 @@ the script will execute the kraken-build --build command.
 #####
 
 For a more in depth tutorial on how to merge a database onto the NCBI taxonomy see wiki
--> https://github.com/FOI-Bioinformatics/flextaxd/wiki/Walkthrough---merge-NCBI-with-GTDB
+-> https://github.com/FOI-Bioinformatics/flextaxd/wiki/8d.-Walkthrough--merge-NCBI-and-GTDB
 
 
 ## Quick guide
