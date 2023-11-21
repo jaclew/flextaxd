@@ -5,7 +5,7 @@ Flexible Taxonomy Databases - A cross platform tool for customization and mergin
 New to FlexTaxD? --> see [wiki](https://github.com/FOI-Bioinformatics/flextaxd/wiki)
 
 
-Supported input formats in version later than v0.4.2: For details see [Formats-wiki](https://github.com/FOI-Bioinformatics/flextaxd/wiki/Formats)
+Supported input formats in version later than v0.4.2: For details see [Formats-wiki](https://github.com/FOI-Bioinformatics/flextaxd/wiki/2a.-File-formats)
 * NCBI
 * TSV
 * MP-style
